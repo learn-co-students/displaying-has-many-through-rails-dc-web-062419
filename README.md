@@ -13,7 +13,7 @@
 We've seen how we can use simple associations to display data to our users in Rails, but what about more complex relationships? Lucky for us, the interface for displaying this type of data is just as easy thanks to Active Record and `has_many, through`.
 
 ## Lesson
-
+#no
 ### has_many, through
 
 Let's say you're making a blog and want to give users the ability to sign up and comment on your posts. What's the relationship between a post and a comment?  If you said, "A comment belongs to a post, and a post has many comments," give yourself a pat on the back!
